@@ -85,8 +85,6 @@ function playGame(){
     
     while (humanScore < 5 && computerScore < 5){ // Main game loop
         playRound(getHumanChoice(), getComputerChoice())
-        console.log(humanScore)
-        console.log(computerScore)
     }
     console.log(`Final Score: Human Player:${humanScore}\nComputer:${computerScore}`)
 
