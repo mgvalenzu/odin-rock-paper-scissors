@@ -71,8 +71,6 @@ function playGame(){
                 updateComputerScore()
             }
         }
-        // console.log(computerScore)
-        // console.log(humanScore)
     }
     
     function updateHumanScore(){
