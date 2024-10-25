@@ -1,0 +1,1 @@
+console.log("hello fucker the scirpt link works")
